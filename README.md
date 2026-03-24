@@ -1,4 +1,4 @@
-# SQL Exploratory Data Analysis Project
+# SQL EDA and Advanced Analysis 
 
 ## 📊 Sales Analytics SQL Project
 
