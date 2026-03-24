@@ -94,7 +94,7 @@ Two reporting views were created:
 
 ---
 
-##🛠 Tools Used
+## 🛠 Tools Used
 
 * SQL Server
 * T-SQL
