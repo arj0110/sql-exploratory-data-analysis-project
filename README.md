@@ -1,6 +1,6 @@
 # SQL Exploratory Data Analysis Project
 
-# 📊 Sales Analytics SQL Project
+## 📊 Sales Analytics SQL Project
 
 ## Overview
 
@@ -11,7 +11,7 @@ The dataset comes from a structured warehouse architecture (**Bronze → Silver 
 
 ---
 
-# 🔎 Exploratory Data Analysis (EDA)
+## 🔎 Exploratory Data Analysis (EDA)
 
 EDA was performed to understand the structure and quality of the dataset.
 
@@ -26,7 +26,7 @@ This step ensures the data is **clean and ready for deeper analysis**.
 
 ---
 
-# 📈 Advanced Data Analysis
+## 📈 Advanced Data Analysis
 
 Several analytical techniques were applied using SQL.
 
@@ -70,7 +70,7 @@ Products were categorized based on **cost ranges and revenue performance**.
 
 ---
 
-# 📊 Analytical Reports
+## 📊 Analytical Reports
 
 Two reporting views were created:
 
@@ -94,7 +94,7 @@ Two reporting views were created:
 
 ---
 
-# 🛠 Tools Used
+##🛠 Tools Used
 
 * SQL Server
 * T-SQL
@@ -104,7 +104,7 @@ Two reporting views were created:
 
 ---
 
-# 🚀 Key Outcome
+## 🚀 Key Outcome
 
 This project demonstrates how SQL can be used to perform **EDA, advanced analytics, and KPI reporting** on warehouse data to support **business decision-making**.
 
